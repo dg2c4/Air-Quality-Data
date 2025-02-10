@@ -26,7 +26,9 @@ El trabajo se divide en tres componentes principales:
     - Exposición clara de los hallazgos del análisis exploratorio.
 
 
-## *Conjunto de datos:* Contiene información sobre la calidad del aire.
+## *Conjunto de datos:* 
+Contiene información sobre la calidad del aire.
+
 ### *Opcion 1:* Datos históricos de la EPA (Environmental Protection Agency)
     https://www.kaggle.com/datasets/epa/epa-historical-air-quality
 ### *Opcion 2:* Datos sobre calidad del aire y su impacto en la salud

@@ -53,7 +53,7 @@ Contiene información sobre la calidad del aire.
 
 
 # *Systems engineering:*
-| Student: | David Gutierrez Chaves |
+| User: | David Gutierrez Chaves |
 |------|--------|
 | Code: | 506222728 |
 | Subject: | Visualización De Datos Electiva-II |

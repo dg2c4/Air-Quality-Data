@@ -1,11 +1,10 @@
 # *Air-Quality-Data*
-
 <p align="center">
   <video src="" width=400/>
 <p/>
 
 
-# *Objetivo:* 
+## *Objetivo:* 
 Desarrollar un análisis completo que permita extraer insights significativos sobre la calidad del aire, utilizando herramientas de visualización de datos para presentar los resultados de manera efectiva. 
 El trabajo se divide en tres componentes principales:
 
@@ -52,7 +51,7 @@ Contiene información sobre la calidad del aire.
 | Calidad de las visualizaciones y justificación | 10 pts |
 
 
-# *Systems engineering:*
+## *Systems engineering:*
 | User: | David Gutierrez Chaves |
 |------|--------|
 | Code: | 506222728 |

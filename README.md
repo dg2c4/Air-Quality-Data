@@ -19,7 +19,7 @@ El trabajo se divide en tres componentes principales:
     - Reducción de datos cuando sea necesario.
     - Discretización de datos según corresponda.
 
-### *Visualización:*
+### *Visualización de Datos:*
     - Creación de un dashboard en PowerBI o Tableau.
     - Presentación visual de las conclusiones del análisis.
     - Exposición clara de los hallazgos del análisis exploratorio.

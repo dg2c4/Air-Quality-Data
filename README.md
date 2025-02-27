@@ -33,6 +33,7 @@ Contiene información sobre la calidad del aire.
 ### *Opcion 2:* Datos sobre calidad del aire y su impacto en la salud
     https://www.kaggle.com/datasets/rabieelkharoua/air-quality-and-health-impact-dataset/data 
 
+Para el desarrollo de este ejercicio usaremos la opcion #2 "Datos sobre calidad del aire y su impacto en la salud".
 
 ## *Ejercicio:*
   A. Realizar un análisis exploratorio al conjunto de datos entregado, para ello debe crear diferentes preguntas e hipótesis a resolver en los datos partiendo de un problema que cada grupo debe plantear.

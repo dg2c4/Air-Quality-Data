@@ -1,6 +1,6 @@
 # *Air-Quality-Data*
 <p align="center">
-  <img width="600" height="750" src="https://github.com/dg2c4/Air-Quality-Data/blob/main/Assets/Dashboard-Visualizacion-Datos-Power-BI.webp" alt="Desarrollo-De-Nuevas-Tecnologias-Data-Base">
+  <img width="800" height="400" src="https://github.com/dg2c4/Air-Quality-Data/blob/main/Assets/Dashboard-Visualizacion-Datos-Power-BI.webp" alt="Desarrollo-De-Nuevas-Tecnologias-Data-Base">
 </p>
 
 

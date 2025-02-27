@@ -1,7 +1,7 @@
 # *Air-Quality-Data*
 <p align="center">
-  <video src="" width=400/>
-<p/>
+  <img width="600" height="750" src="https://github.com/dg2c4/Air-Quality-Data/blob/main/Assets/Dashboard-Visualizacion-Datos-Power-BI.webp" alt="Desarrollo-De-Nuevas-Tecnologias-Data-Base">
+</p>
 
 
 ## *Objetivo:* 

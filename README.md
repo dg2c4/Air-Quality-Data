@@ -64,4 +64,4 @@ Para el desarrollo de este ejercicio usaremos la opcion #2 "Datos sobre calidad 
 ## Created By:
     https://github.com/dg2c4
     
-### *Date:* 10/02/2025 - 27/02/20
+### *Date:* 10/02/2025 - 27/02/2025

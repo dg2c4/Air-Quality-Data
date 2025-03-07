@@ -50,6 +50,7 @@ Para el desarrollo de este ejercicio usaremos la opcion #2 "Datos sobre calidad 
 | Preprocesamiento de los datos | 10 pts |
 | Visualización de datos con PowerBI | 20 pts |
 | Calidad de las visualizaciones y justificación | 10 pts |
+| Total | 50 pts |
 
 
 ## *Systems engineering:*
